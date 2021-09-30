@@ -1,0 +1,7 @@
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\bin\Debug\TechTesBRI.exe.config
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\bin\Debug\TechTesBRI.exe
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\bin\Debug\TechTesBRI.pdb
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\obj\Debug\TechTesBRI.csprojAssemblyReference.cache
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\obj\Debug\TechTesBRI.csproj.CoreCompileInputs.cache
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\obj\Debug\TechTesBRI.exe
+D:\Visual Studio Source\TechTest1\TechTesBRI\TechTesBRI\obj\Debug\TechTesBRI.pdb
